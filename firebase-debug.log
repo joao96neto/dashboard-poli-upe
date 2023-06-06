@@ -1,0 +1,25 @@
+[debug] [2023-06-06T23:01:18.257Z] ----------------------------------------------------------------------
+[debug] [2023-06-06T23:01:18.261Z] Command:       C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-06-06T23:01:18.262Z] CLI Version:   12.3.1
+[debug] [2023-06-06T23:01:18.263Z] Platform:      win32
+[debug] [2023-06-06T23:01:18.264Z] Node Version:  v18.10.0
+[debug] [2023-06-06T23:01:18.265Z] Time:          Tue Jun 06 2023 20:01:18 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2023-06-06T23:01:18.266Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-06-06T23:01:18.402Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-06-06T23:01:18.403Z] > authorizing via signed-in user (jvfn@ecomp.poli.br)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\jneto\dashboard-poli
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
